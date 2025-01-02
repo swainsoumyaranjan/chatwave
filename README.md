@@ -53,7 +53,7 @@ Ensure you have the following installed:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/gen-z-chat-app.git
+   git clone https://github.com/your-username/project.git
    ```
 
 2. Navigate to the project directory:
@@ -67,7 +67,7 @@ Ensure you have the following installed:
    ```
 
 4. Configure the database:
-   - For MongoDB, update the `config.js` file with your MongoDB URI.
+   
    - For MySQL, provide your database credentials in the `config.js` file.
 
 5. Start the development server:
